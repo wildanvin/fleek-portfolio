@@ -2,22 +2,22 @@
   "siteMetadata": {
     "language": "en",
     "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
-    "title": "Gatsby Starter for Portfolio Minimal",
-    "titleTemplate": "%s · Portfolio Minimal",
-    "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
-    "author": "Konstantin Münster",
+    "title": "wildanvin Personal Website",
+    "titleTemplate": "wildanvin Personal Website",
+    "description": "A personal Website for Wilman",
+    "author": "wildanvin",
     "avatar": "../content/images/gatsby.png",
-    "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
+    "bio": "Passionate software engineer and blockchain developer, dedicated to driving efficiency and decentralization through innovative solutions",
     "social": {
       "behance": "https://behance.com",
-      "github": "https://github.com/konstantinmuenster",
-      "medium": "https://konstantinmuenster.medium.com",
-      "linkedin": "https://www.linkedin.com/in/konstantin-muenster/",
+      "github": "https://github.com/wildanvin",
+      "medium": "",
+      "linkedin": "https://www.linkedin.com/in/wilman-vinueza/",
       "mail": "mailto:mail@konstantin.digital"
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "Portfolio" },
+    "logo": { "text": "wildanvin" },
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
