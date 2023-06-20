@@ -1,10 +1,10 @@
 {
-  "name": "wildanvin Personal Web Site",
-  "email": "example@mail.com",
-  "description": "If you have any problems with this theme, create an issue in the GitHub repository.",
+  "name": "wildanvin",
+  "email": "wildanvinjim@gmail.com",
+  "description": "Feel free to reach out!",
   "image": {
     "src": "../../images/favicon.png",
-    "alt": "Gatsby Logo"
+    "alt": "wildanvin Logo"
   },
   "socialProfiles": {
     "from": ["LinkedIn", "Medium", "Github", "Mail"],

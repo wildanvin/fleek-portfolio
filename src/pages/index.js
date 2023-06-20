@@ -13,7 +13,7 @@ import {
 export default function IndexPage() {
   return (
     <>
-      <Seo title='wildanvin Personal Web Site' />
+      <Seo title='wildanvin' />
       <Page useSplashScreenAnimation>
         <HeroSection sectionId='hero' />
         {/* <ArticlesSection
@@ -21,10 +21,10 @@ export default function IndexPage() {
           heading='Latest Articles'
           sources={['Medium']}
         /> */}
-        <AboutSection sectionId='about' heading='About Portfolio Minimal' />
-        <InterestsSection sectionId='details' heading='Details' />
-        <ProjectsSection sectionId='features' heading='Built-in Features' />
-        <ContactSection sectionId='github' heading='Issues?' />
+        <AboutSection sectionId='about' heading='About Me' />
+        <InterestsSection sectionId='details' heading='Skills' />
+        <ProjectsSection sectionId='projects' heading='Projects' />
+        <ContactSection sectionId='contact' heading='Contact' />
       </Page>
     </>
   )

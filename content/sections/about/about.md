@@ -1,14 +1,12 @@
 ---
-imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
-imageAlt: "About Gatsby Theme Portfolio Minimal"
+imageSrc: '../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg'
+imageAlt: 'About Me'
 ---
 
-Portfolio Minimal is a Gatsby Theme that creates outstanding one-pages portfolio within minutes!
+I'm Wilman, a passionate engineer based in Ecuador. With a strong foundation in front-end development using React and expertise in blockchain development with Solidity, I am dedicated to creating innovative solutions that drive efficiency and promote decentralization.
 
-It has predefined sections for your bio, skills, projects, and contact details. If you are a writer on Medium, you can integrate your latest articles in a distinct section as well. While building the theme, I tried to keep the setup as simple as possible while keeping everything configurable if you like to.
+I am a curious learner who constantly seeks to expand my knowledge and stay ahead of the curve in the ever-evolving field of software engineering. I am always excited to tackle new challenges, explore emerging technologies, and collaborate with like-minded individuals.
 
-Using theme composition, you can easily customize the CSS theme to your own preferences - e.g. change colors, fonts, etc.
-
-Last but not least, it has some cool features you can opt-in to: Dark Mode, Splash Screen, Cookie Banner, and more to find out :)
+I invite you to connect with me through the provided contact links to discuss potential collaborations, share ideas, or simply have a conversation about technology. Together, let's create solutions that make a meaningful impact in the digital world.
 
 Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash
