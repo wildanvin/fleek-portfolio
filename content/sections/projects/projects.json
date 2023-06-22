@@ -2,40 +2,265 @@
   "projects": [
     {
       "visible": true,
-      "category": "🕹️ EASY AND QUICK SETUP",
-      "title": "Add content and deploy!",
-      "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
-      "tags": ["Content Integration", "Ready-2-Deploy"],
+      "category": "",
+      "title": "Inflation Protocol",
+      "description": "A blockchain-based approach to track the inflation of a country.",
+      "tags": ["Scaffol-Eth", "Chainlink", "Hardhat"],
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
-        "alt": "Quick Setup",
-        "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+        "src": "../../images/balloons.png",
+        "alt": "Inflation Balloons",
+        "linkTo": "https://github.com/wildanvin/inflation-protocol"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "url": "https://github.com/wildanvin/inflation-protocol"
         },
         {
           "type": "external",
-          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
+          "url": "https://inflation-protocol.vercel.app/"
         }
       ]
     },
     {
       "visible": true,
-      "category": "🧰 EXTENDABLE LAYOUT",
-      "title": "Add more sections!",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
+      "category": "",
+      "title": "c-entry",
+      "description": "c-entry is short for Coordinated Entry, and it's a smart solution for coordinating group access to various events and courses.",
+      "tags": ["Scaffol-Eth", "Next", "Hardhat"],
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
-        "alt": "Extendable Layout"
+        "src": "../../images/centry.png",
+        "alt": "Centry logo",
+        "linkTo": "https://github.com/wildanvin/c-entry/"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "url": "https://github.com/wildanvin/c-entry/"
+        },
+        {
+          "type": "external",
+          "url": "https://c-entry.vercel.app/"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "",
+      "title": "Arboracle",
+      "description": "Bring data of reforestation projects on-chain in a decentralized and secure way.",
+      "tags": ["UMA", "Scaffol-Eth", "Hardhat"],
+      "image": {
+        "src": "../../images/arboracle.png",
+        "alt": "Arboracle Project Image",
+        "linkTo": "https://github.com/wildanvin/arboracle/"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/wildanvin/arboracle/"
+        },
+        {
+          "type": "external",
+          "url": "https://mature-pickle.surge.sh/"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "",
+      "title": "Bounty Bonanza",
+      "description": "Simple game similar to Fruit Ninja. The winner can claim a reward that is gaining yield in Aave.",
+      "tags": ["thirdweb", "Unity", "Aave"],
+      "image": {
+        "src": "../../images/bountyBonanza.png",
+        "alt": "Game Image",
+        "linkTo": "https://devpost.com/software/bounty-bonanza-game/"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/namdar12/ReadyPlayer3Hackathon/"
+        },
+        {
+          "type": "external",
+          "url": "https://devpost.com/software/bounty-bonanza-game/"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "",
+      "title": "Typefund",
+      "description": "TypeFund aims to be a community-owned foundry, where type designers are able to access fairer distribution channels.",
+      "tags": ["IPFS", "Marketplace", "Vercel"],
+      "image": {
+        "src": "../../images/typefund.png",
+        "alt": "Typefund image",
+        "linkTo": "https://ethglobal.com/showcase/type-fund-77zqf/"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/Purum-ETHBogota/typefund/"
+        },
+        {
+          "type": "external",
+          "url": "https://ethglobal.com/showcase/type-fund-77zqf/"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "",
+      "title": "Ubeswap Contributor Agreement",
+      "description": "Creates contracts in the blockchain in order to track tasks and contributions",
+      "tags": ["IPFS", "Scaffold-Eth"],
+      "image": {
+        "src": "../../images/agreement.png",
+        "alt": "CHANGE",
+        "linkTo": "https://github.com/wildanvin/contributor-contract/"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/wildanvin/contributor-contract/"
+        },
+        {
+          "type": "external",
+          "url": "https://befitting-fuel.surge.sh/"
+        }
+      ]
+    },
+    {
+      "visible": false,
+      "category": "",
+      "title": "CHANGE",
+      "description": "CHANGE",
+      "tags": ["CHANGE", "CHANGE", "CHANGE"],
+      "image": {
+        "src": "../../images/CHANGE.png",
+        "alt": "CHANGE",
+        "linkTo": "https://github.com/wildanvin/CHANGE/"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/wildanvin/CHANGE/"
+        },
+        {
+          "type": "external",
+          "url": "https://CHANGE.vercel.app/"
+        }
+      ]
+    },
+    {
+      "visible": false,
+      "category": "",
+      "title": "CHANGE",
+      "description": "CHANGE",
+      "tags": ["CHANGE", "CHANGE", "CHANGE"],
+      "image": {
+        "src": "../../images/CHANGE.png",
+        "alt": "CHANGE",
+        "linkTo": "https://github.com/wildanvin/CHANGE/"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/wildanvin/CHANGE/"
+        },
+        {
+          "type": "external",
+          "url": "https://CHANGE.vercel.app/"
+        }
+      ]
+    },
+    {
+      "visible": false,
+      "category": "",
+      "title": "CHANGE",
+      "description": "CHANGE",
+      "tags": ["CHANGE", "CHANGE", "CHANGE"],
+      "image": {
+        "src": "../../images/CHANGE.png",
+        "alt": "CHANGE",
+        "linkTo": "https://github.com/wildanvin/CHANGE/"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/wildanvin/CHANGE/"
+        },
+        {
+          "type": "external",
+          "url": "https://CHANGE.vercel.app/"
+        }
+      ]
+    },
+    {
+      "visible": false,
+      "category": "",
+      "title": "CHANGE",
+      "description": "CHANGE",
+      "tags": ["CHANGE", "CHANGE", "CHANGE"],
+      "image": {
+        "src": "../../images/CHANGE.png",
+        "alt": "CHANGE",
+        "linkTo": "https://github.com/wildanvin/CHANGE/"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/wildanvin/CHANGE/"
+        },
+        {
+          "type": "external",
+          "url": "https://CHANGE.vercel.app/"
+        }
+      ]
+    },
+    {
+      "visible": false,
+      "category": "",
+      "title": "CHANGE",
+      "description": "CHANGE",
+      "tags": ["CHANGE", "CHANGE", "CHANGE"],
+      "image": {
+        "src": "../../images/CHANGE.png",
+        "alt": "CHANGE",
+        "linkTo": "https://github.com/wildanvin/CHANGE/"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/wildanvin/CHANGE/"
+        },
+        {
+          "type": "external",
+          "url": "https://CHANGE.vercel.app/"
+        }
+      ]
+    },
+    {
+      "visible": false,
+      "category": "",
+      "title": "CHANGE",
+      "description": "CHANGE",
+      "tags": ["CHANGE", "CHANGE", "CHANGE"],
+      "image": {
+        "src": "../../images/CHANGE.png",
+        "alt": "CHANGE",
+        "linkTo": "https://github.com/wildanvin/CHANGE/"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/wildanvin/CHANGE/"
+        },
+        {
+          "type": "external",
+          "url": "https://CHANGE.vercel.app/"
         }
       ]
     }

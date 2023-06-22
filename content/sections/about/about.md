@@ -3,7 +3,7 @@ imageSrc: '../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg'
 imageAlt: 'About Me'
 ---
 
-I'm Wilman, a passionate engineer based in Ecuador. With a strong foundation in front-end development using React and expertise in blockchain development with Solidity, I am dedicated to creating innovative solutions that drive efficiency and promote decentralization.
+I'm a passionate engineer based in Ecuador. With a strong foundation in front-end development using React and expertise in blockchain development with Solidity, I am dedicated to creating innovative solutions that drive efficiency and promote decentralization.
 
 I am a curious learner who constantly seeks to expand my knowledge and stay ahead of the curve in the ever-evolving field of software engineering. I am always excited to tackle new challenges, explore emerging technologies, and collaborate with like-minded individuals.
 
