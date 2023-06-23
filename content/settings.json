@@ -1,13 +1,13 @@
 {
   "siteMetadata": {
     "language": "en",
-    "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
+    "siteUrl": "wildanvin.xyz/",
     "title": "wildanvin",
     "titleTemplate": "wildanvin Personal Website",
     "description": "A personal Website for Wilman",
     "author": "wildanvin",
-    "avatar": "../content/images/gatsby.png",
-    "bio": "Passionate software engineer and blockchain developer, dedicated to driving efficiency and decentralization through innovative solutions",
+    "avatar": "../content/images/favicon.png",
+    "bio": "Passionate software engineer and blockchain developer.",
     "social": {
       "behance": "https://behance.com",
       "github": "https://github.com/wildanvin",

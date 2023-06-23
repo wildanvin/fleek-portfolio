@@ -118,7 +118,7 @@
       "tags": ["IPFS", "Scaffold-Eth"],
       "image": {
         "src": "../../images/agreement.png",
-        "alt": "CHANGE",
+        "alt": "Ubeswap Image",
         "linkTo": "https://github.com/wildanvin/contributor-contract/"
       },
       "links": [
@@ -133,134 +133,90 @@
       ]
     },
     {
-      "visible": false,
+      "visible": true,
       "category": "",
-      "title": "CHANGE",
-      "description": "CHANGE",
-      "tags": ["CHANGE", "CHANGE", "CHANGE"],
+      "title": "Hypertally",
+      "description": "Solution that enables on-chain validation, monitoring, data analysis, and computer vision analysis of geo-referenced carbon projects.",
+      "tags": ["Chainlink", "Bacalhau", "IPFS"],
       "image": {
-        "src": "../../images/CHANGE.png",
-        "alt": "CHANGE",
-        "linkTo": "https://github.com/wildanvin/CHANGE/"
+        "src": "../../images/hypertally.jpeg",
+        "alt": "Hypertally Image",
+        "linkTo": "https://devpost.com/software/hypertally/"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/wildanvin/CHANGE/"
+          "url": "https://github.com/Purum-ETHBogota/vegetation-checker/"
         },
         {
           "type": "external",
-          "url": "https://CHANGE.vercel.app/"
+          "url": "https://devpost.com/software/hypertally/"
         }
       ]
     },
     {
-      "visible": false,
+      "visible": true,
       "category": "",
-      "title": "CHANGE",
-      "description": "CHANGE",
-      "tags": ["CHANGE", "CHANGE", "CHANGE"],
+      "title": "Tessie",
+      "description": "I made an Automatic Pet Tag Engraver using a Raspberry Pi, a mini CNC machine and Open Source Software. You only need to enter the name of the pet and then press 'Engrave'.",
+      "tags": ["NodeJS", "Javascript", "RaspberryPi"],
       "image": {
-        "src": "../../images/CHANGE.png",
-        "alt": "CHANGE",
-        "linkTo": "https://github.com/wildanvin/CHANGE/"
+        "src": "../../images/tessie.jpg",
+        "alt": "Tessie Image",
+        "linkTo": "https://www.instructables.com/Automatic-Pet-Tag-Engraver/"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/wildanvin/CHANGE/"
+          "url": "https://github.com/wildanvin/tessie"
         },
         {
           "type": "external",
-          "url": "https://CHANGE.vercel.app/"
+          "url": "https://www.instructables.com/Automatic-Pet-Tag-Engraver/"
         }
       ]
     },
     {
-      "visible": false,
+      "visible": true,
       "category": "",
-      "title": "CHANGE",
-      "description": "CHANGE",
-      "tags": ["CHANGE", "CHANGE", "CHANGE"],
+      "title": "Classroom DAO",
+      "description": "Learn to earn platorm",
+      "tags": ["MongoDB", "Truffle"],
       "image": {
-        "src": "../../images/CHANGE.png",
+        "src": "../../images/classroom.png",
         "alt": "CHANGE",
-        "linkTo": "https://github.com/wildanvin/CHANGE/"
+        "linkTo": "https://github.com/wildanvin/classroomDao/"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/wildanvin/CHANGE/"
+          "url": "https://github.com/wildanvin/classroomDao/"
         },
         {
           "type": "external",
-          "url": "https://CHANGE.vercel.app/"
+          "url": "https://classroom-dao.vercel.app/"
         }
       ]
     },
     {
-      "visible": false,
+      "visible": true,
       "category": "",
-      "title": "CHANGE",
-      "description": "CHANGE",
-      "tags": ["CHANGE", "CHANGE", "CHANGE"],
+      "title": "Bets Friends",
+      "description": "My first Dapp with plain HTML, CSS and JS for the Consensys Bootcamp. BetsFriends is a simple betting dapp. The bet can only occur between two people (only two wallets or accounts). The App is on the diffunt Kovan network, maybe I'll update it later",
+      "tags": ["Truffle", "Chainlink"],
       "image": {
-        "src": "../../images/CHANGE.png",
+        "src": "../../images/betsFriends.png",
         "alt": "CHANGE",
-        "linkTo": "https://github.com/wildanvin/CHANGE/"
+        "linkTo": "https://github.com/wildanvin/blockchain-developer-bootcamp-final-project"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/wildanvin/CHANGE/"
+          "url": "https://github.com/wildanvin/blockchain-developer-bootcamp-final-project"
         },
         {
           "type": "external",
-          "url": "https://CHANGE.vercel.app/"
-        }
-      ]
-    },
-    {
-      "visible": false,
-      "category": "",
-      "title": "CHANGE",
-      "description": "CHANGE",
-      "tags": ["CHANGE", "CHANGE", "CHANGE"],
-      "image": {
-        "src": "../../images/CHANGE.png",
-        "alt": "CHANGE",
-        "linkTo": "https://github.com/wildanvin/CHANGE/"
-      },
-      "links": [
-        {
-          "type": "github",
-          "url": "https://github.com/wildanvin/CHANGE/"
-        },
-        {
-          "type": "external",
-          "url": "https://CHANGE.vercel.app/"
-        }
-      ]
-    },
-    {
-      "visible": false,
-      "category": "",
-      "title": "CHANGE",
-      "description": "CHANGE",
-      "tags": ["CHANGE", "CHANGE", "CHANGE"],
-      "image": {
-        "src": "../../images/CHANGE.png",
-        "alt": "CHANGE",
-        "linkTo": "https://github.com/wildanvin/CHANGE/"
-      },
-      "links": [
-        {
-          "type": "github",
-          "url": "https://github.com/wildanvin/CHANGE/"
-        },
-        {
-          "type": "external",
-          "url": "https://CHANGE.vercel.app/"
+          "url": "https://wildanvin.github.io/blockchain-developer-bootcamp-final-project/"
         }
       ]
     }
