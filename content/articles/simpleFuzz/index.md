@@ -1,4 +1,21 @@
-# `Simple Fuzzing with Foundry and Echidna`
+---
+title: 'Simple Fuzzing with Foundry and Echidna'
+description: 'Simple Fuzzing with Foundry and Echidna'
+date: '2024-04-06'
+banner:
+  src: '../../images/simpleFuzz/fuzzingHeader.webp'
+  alt: 'Simple Fuzz Tutorial'
+  caption: 'Photo by chatGPT'
+categories:
+  - 'Fuzzing'
+  - 'Tutorial'
+keywords:
+  - 'Fuzzing'
+  - 'Echidna'
+  - 'Foundry'
+---
+
+You can read this post on [Mirror](https://mirror.xyz/wildanvin.eth/zVhU-SQz1vO3hk9RWqPGEnWicvjPBPY8VpURfJIY0Jw) too.
 
 In this article we are going to use [Foundry](https://book.getfoundry.sh/getting-started/installation) and [Echidna](https://github.com/crytic/echidna) to break a simple contract. We are going to need [Docker](https://docs.docker.com/get-docker/) installed in order to use Echidna.
 
@@ -120,7 +137,7 @@ If you haven’t used docker before (like me) that last command will look like g
   - `-rm`: This option automatically removes the container when it exits. Containers can consume disk space, and removing them when you're done helps keep your system clean.
   - `v $PWD:/home/ethsec/code`: This is a volume mount option. `v` mounts a directory from your host into the container. `$PWD` is a variable in your shell that stands for "Print Working Directory," which is the current directory you're in on your host system. `:/home/ethsec/code` specifies the path inside the container where the host directory is mounted. This allows you to share files between your host system and the container. In this case, whatever is in the current directory on the host system will appear in `/home/ethsec/code` inside the container.
   - `ghcr.io/trailofbits/eth-security-toolbox:nightly`: This specifies the Docker image to use. `ghcr.io` is the GitHub Container Registry, a service for hosting container images. `trailofbits/eth-security-toolbox` is the name of the repository on GHCR, and `nightly` is the tag for the image, indicating this image is a nightly build, which is usually the latest development version of the software.
-  In summary, this command runs a container interactively, with the current directory on the host system mounted into the container. The container is based on a nightly build of the Trail of Bits Ethereum Security Toolbox image. Once the container's process exits, the container itself is automatically removed to not leave any unnecessary clutter on your system. This setup is particularly useful for security analysis or development work related to Ethereum, as it provides a pre-configured environment with tools and libraries tailored for this purpose.
+    In summary, this command runs a container interactively, with the current directory on the host system mounted into the container. The container is based on a nightly build of the Trail of Bits Ethereum Security Toolbox image. Once the container's process exits, the container itself is automatically removed to not leave any unnecessary clutter on your system. This setup is particularly useful for security analysis or development work related to Ethereum, as it provides a pre-configured environment with tools and libraries tailored for this purpose.
 
 Once you are inside the docker image, switch to the `code` directory with `cd code` and run:
 
@@ -130,7 +147,7 @@ echidna test/EchidnaSimpleFuzz.t.sol --contract EchidnaSimpleFuzz --test-limit 5
 
 If everything is fine, Echidna will show you a nice screen with the case that breaks the invariant:
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/2b50c96a-2efe-4814-9663-16137417799d/6de6074e-3a23-4bd1-a601-c54ae2a04aa6/Untitled.png)
+![Stateless Echidna](../../images/simpleFuzz/statelessEchidna.png)
 
 ## Stateful fuzzing
 
@@ -212,7 +229,7 @@ echidna test/EchidnaSimpleFuzz.t.sol --contract EchidnaSimpleFuzz --test-limit 5
 
 Equidna will get the sequence call that breaks the invariant:
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/2b50c96a-2efe-4814-9663-16137417799d/2d5bca0f-b7de-41e3-a2a5-03e1181df8cb/Untitled.png)
+![Statefull Echidna](../../images/simpleFuzz/statefullEchidna.png)
 
 ## Conclusion
 
